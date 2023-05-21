@@ -4,8 +4,8 @@
         "Name": "Infinite Roleplay",
         "Description": "Tool for creating and sharing roleplay profiles, stat and combat systems, events and more.",
         "InternalName": "InfiniteRoleplay",
-        "AssemblyVersion": "1.0.0.2",
-        "TestingAssemblyVersion": "1.0.0.2",
+        "AssemblyVersion": "1.0.0.3",
+        "TestingAssemblyVersion": "1.0.0.3",
         "RepoUrl": "https://github.com/serifas/irp",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -19,7 +19,7 @@
         "DownloadLinkInstall": "https://github.com/serifas/irp/raw/main/latesttest.zip",
         "DownloadLinkTesting": "https://github.com/serifas/irp/raw/main/latesttest.zip",
         "DownloadLinkUpdate": "https://github.com/serifas/irp/raw/main/latesttest.zip",
-        "IconUrl": "https://i.imgur.com/79CA4eS.png"
+        "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/j1Qgzx9.png"
     }
 ]
 
