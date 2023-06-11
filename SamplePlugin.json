@@ -1,23 +1,19 @@
 {
-  "Author": "Omie",
-  "Name": "Infinite Roleplay",
+  "Author": "your name here",
+  "Name": "Sample Plugin",
   "InternalName": "SamplePlugin",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "/infinite to open window",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/serifas/irp",
   "Tags": [
-    "infinite",
-    "roleplay",
-    "rp",
-    "statsheets"
+    "sample",
+    "plugin",
+    "goats"
   ],
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
-  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/irp.png",
-  "Punchline": "An all around roleplay plugin.",
+  "Punchline": "A short one-liner that shows up in /xlplugins.",
   "AcceptsFeedback": true
 }
