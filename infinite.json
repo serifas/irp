@@ -1,11 +1,11 @@
 [
     {
         "Author": "Lynie",
-        "Name": "Infinite Plugin",
+        "Name": "Infinite Roleplay",
         "Description": "Tool for creating and sharing roleplay profiles, stat and combat systems, events and more.",
-        "InternalName": "InfinitePlugin",
-        "AssemblyVersion": "1.0.2.2",
-        "TestingAssemblyVersion": "1.0.2.2",
+        "InternalName": "InfiniteRoleplay",
+        "AssemblyVersion": "1.0.1.0",
+        "TestingAssemblyVersion": "1.0.1.0",
         "RepoUrl": "https://github.com/serifas/irp",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
