@@ -1,0 +1,19 @@
+{
+  "Author": "Lynie",
+  "Name": "Infinite Roleplay",
+  "InternalName": "InfiniteRoleplay",
+  "AssemblyVersion": "0.0.0.1",
+  "Description": "Use /infinite to load",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "RP",
+    "roleplay",
+    "infinite"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "An all around roleplay plugin for FFXIV",
+  "AcceptsFeedback": true
+}
