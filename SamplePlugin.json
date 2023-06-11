@@ -1,7 +1,7 @@
 {
   "Author": "Omie",
   "Name": "Infinite Roleplay",
-  "InternalName": "InfiniteRoleplay",
+  "InternalName": "SamplePlugin",
   "AssemblyVersion": "0.0.0.1",
   "Description": "/infinite to open window",
   "ApplicableVersion": "any",
