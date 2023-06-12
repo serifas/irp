@@ -1,23 +1,20 @@
 {
-  "Author": "Omie",
+  "Author": "your name here",
   "Name": "Infinite Roleplay",
   "InternalName": "InfiniteRoleplay",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "/infinite to open window",
+  "Description": "A roleplay plugin for creating and managing profiles, stat sheets and events.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/serifas/irp",
   "Tags": [
-    "infinite",
     "roleplay",
-    "rp",
-    "statsheets"
+    "profiles",
+    "stat sheets",
+    "event management"
   ],
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
-  "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/irp.png",
   "Punchline": "An all around roleplay plugin.",
   "AcceptsFeedback": true
 }
