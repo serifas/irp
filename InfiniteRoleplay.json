@@ -3,17 +3,17 @@
   "Name": "Infinite Roleplay",
   "InternalName": "InfiniteRoleplay",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "A roleplay plugin for creating and managing profiles, stat sheets and events.",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
   "ApplicableVersion": "any",
   "Tags": [
-    "roleplay",
-    "profiles",
-    "stat sheets",
-    "event management"
+    "sample",
+    "plugin",
+    "goats"
   ],
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "Punchline": "An all around roleplay plugin.",
   "AcceptsFeedback": true
