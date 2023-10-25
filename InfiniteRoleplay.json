@@ -10,6 +10,7 @@
     "plugin",
     "goats"
   ],
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
