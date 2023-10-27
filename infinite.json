@@ -18,12 +18,6 @@
         "DownloadLinkInstall": "https://github.com/serifas/irp/raw/main/latest.zip",
         "DownloadLinkTesting": "https://github.com/serifas/irp/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/serifas/irp/raw/main/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/images/icon.png",
-        "ImageUrls": [
-            "https://raw.githubusercontent.com/serifas/irp/main/images/bio.png",
-            "https://raw.githubusercontent.com/serifas/irp/main/images/story.png",
-            "https://raw.githubusercontent.com/serifas/irp/main/images/bookmarks.png",
-            "https://raw.githubusercontent.com/serifas/irp/main/images/gallery.png",
-          ],
+        "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/images/icon.png"
     }
 ]
