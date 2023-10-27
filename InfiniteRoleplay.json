@@ -1,20 +1,20 @@
 {
-  "Author": "your name here",
+  "Author": "serifas",
   "Name": "Infinite Roleplay",
   "InternalName": "InfiniteRoleplay",
   "AssemblyVersion": "0.0.0.1",
-  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "Description": "Use /infinite or the settings button to open.",
   "ApplicableVersion": "any",
   "Tags": [
-    "sample",
-    "plugin",
-    "goats"
+    "Infinite",
+    "Roleplay",
+    "RP"
   ],
   "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
   "LoadPriority": 0,
-  "Punchline": "An all around roleplay plugin.",
+  "Punchline": "A plugin for creating profiles and sharing them, with more to come!",
   "AcceptsFeedback": true
 }
