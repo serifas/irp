@@ -4,8 +4,8 @@
         "Name": "Infinite Roleplay",
         "Description": "Tool for creating and sharing roleplay profiles, with more to come!",
         "InternalName": "InfiniteRoleplay",
-        "AssemblyVersion": "0.0.0.7",
-        "TestingAssemblyVersion": "0.0.0.7",
+        "AssemblyVersion": "0.0.0.8",
+        "TestingAssemblyVersion": "0.0.0.8",
         "RepoUrl": "https://github.com/serifas/irp",
         "ApplicableVersion": "any",
         "IsHide": "False",
@@ -18,6 +18,12 @@
         "DownloadLinkInstall": "https://github.com/serifas/irp/raw/main/latest.zip",
         "DownloadLinkTesting": "https://github.com/serifas/irp/raw/main/latest.zip",
         "DownloadLinkUpdate": "https://github.com/serifas/irp/raw/main/latest.zip",
-        "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/images/icon.png"
+        "IconUrl": "https://raw.githubusercontent.com/serifas/irp/main/images/icon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/serifas/irp/main/images/bio.png",
+            "https://raw.githubusercontent.com/serifas/irp/main/images/story.png",
+            "https://raw.githubusercontent.com/serifas/irp/main/images/bookmarks.png",
+            "https://raw.githubusercontent.com/serifas/irp/main/images/gallery.png",
+          ],
     }
 ]
